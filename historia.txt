@@ -9,6 +9,6 @@ Este es el primer cambio de este archivo en el repositorio.
 
 Este es el segundo cambio 
 
-Este es el tercer cambio 
+
 
 Este es el cuarto cambio
