@@ -2,3 +2,7 @@
 Esté es mi primera interacción con git y VS Code.
 
 Tengo muchas espectativas sobre este curso y todo lo que me 
+
+En este momento me encuentro en la RamaDos, pero a continuación 
+
+pasaré a la rama main.
